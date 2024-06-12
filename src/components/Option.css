@@ -5,6 +5,7 @@
     border-radius: 1rem;
     margin: 0.75rem;
     padding: 0.5rem 2rem;
+    display: inline-block;
 }
 
 .option:hover {
